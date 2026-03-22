@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "EDITOR=true next dev",
-    "build": "EDITOR=true next build",
+    "build": "next build",
     "start": "EDITOR=true next start",
     "lint": "EDITOR=true eslint .",
     "clean": "next clean"
